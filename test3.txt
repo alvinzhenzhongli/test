@@ -1,1 +1,2 @@
 first line in test1.txt
+second line in test3.txt
